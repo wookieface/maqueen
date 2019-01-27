@@ -15,7 +15,7 @@ MicroSeconds
 
 
 //% weight=10 color=#911201 icon="\uf136" block="maqueen"
-namespace stembrain{
+namespace maqueen{
   
     export class Packeta {
         public mye: string;
